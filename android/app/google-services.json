@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8230293064",
+    "project_id": "flutter-phone-login-app",
+    "storage_bucket": "flutter-phone-login-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8230293064:android:9570e9f29ff467014c927d",
+        "android_client_info": {
+          "package_name": "com.hari.flutter_phone_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8230293064-e80if058183et8mka29qj8v3ake2g64l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-1G2r40K8ZCU-drBkKaaGtByfT9sA2HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8230293064-e80if058183et8mka29qj8v3ake2g64l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
